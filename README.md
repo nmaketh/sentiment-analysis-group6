@@ -1,4 +1,4 @@
-     Overview
+# Overview
 This project implements and compares sentiment analysis models on airline customer tweets, evaluating traditional machine learning (Logistic Regression with TF-IDF) against deep learning (Bidirectional LSTM) approaches. The goal is to classify customer sentiment into three categories: negative, neutral, and positive.
 
 Key Features
